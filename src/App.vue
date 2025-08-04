@@ -8,7 +8,7 @@ import { onMounted } from "vue";
 </script>
 
 <template>
- <div class="max-w-6xl mx-auto">
+ <div class="max-w-7xl mx-auto">
    <router-view />
  </div>
 </template>
